@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="merchant_action_1">#2196F3</color>
+    <color name="merchant_action_2">#689F38</color>
+    <color name="merchant_action_3">#EF6C00</color>
+    <color name="merchant_action_4">#795548</color>
+    <color name="merchant_action_5">#E64A19</color>
+    <color name="merchant_action_6">#E91E63</color>
+
+    <color name="divider_color">#CCC</color>
+    <color name="divider_color_blue">#90CAF9</color>
+    <color name="divider_color_red">#EF5350</color>
+
+    <color name="button_neutral_background">#0288D1</color>
+    <color name="button_positive_background">#689F38</color>
+    <color name="button_negative_background">#F44336</color>
+
+    <color name="link_blue">#1a0dab</color>
+    <color name="heart_primary_color">#da4439</color>
+    <color name="heart_secondary_color">#8a098c</color>
+    <!-- 3 shades of yellow -->
+    <color name="yellow">#FFB800</color>
+    <color name="yellow_dark">#CC9300</color>
+    <color name="yellow_exact">#FFFF00</color>
+    <color name="activity_bg">#e4e5e5</color>
+
+    <color name="dark_green">#5a8b30</color>
+    <color name="white">#ffffff</color>
+
+    <color name="light_grey">#f7f4f4</color>
+    <color name="dark_grey">#a4a4a4</color>
+    <color name="light_orange">#EF743B</color>
+
+
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BLACK">#000000</color>
+    <color name="RED">#FF0000</color>
+    <color name="BLUE">#0000FF</color>
+
+
+    <color name="red_status">#fa1b1b</color>
+    <color name="green_status">#38e658</color>
+    <color name="yellow_status">#ede12f</color>
+
+    <!--Iris layout colors-->
+    <color name="ik_blue_white">#FFBDE5F2</color>
+    <color name="ik_purple">#FF662E91</color>
+    <color name="ik_orange">#FFEA8010</color>
+    <color name="ik_blue_gray">#FF696277</color>
+    <color name="ik_dark_black">#FF141100</color>
+    <color name="ik_dark_gray">#FB3C3F41</color>
+    <color name="ik_transparent">#80000000</color>
+
+
+
+    <color name="primary_green">#52bf90</color>
+    <color name="primary_dark_green">#398564</color>
+    <color name="accent_green">#FF4081</color>
+
+    <color name="second_primary">#e0ac69</color>
+    <color name="second_primarydark">#c68642</color>
+
+    <color name="primary_purple">#673AB7</color>
+    <color name="primary_dark_purple">#512DA8</color>
+    <color name="primary_light">#D1C4E9</color>
+    <color name="accent_purple">#FF9800</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="activity_bg_black">#374046</color>
+
+</resources>
